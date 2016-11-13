@@ -31,7 +31,7 @@
 .team {
   overflow: hidden;
   color: #fff;
-  background: #11241C !important; }
+  background: #515C46 !important; }
 
 .team .expandable-box-top {
   padding: 20px;
@@ -62,10 +62,10 @@
   background: #1A2026 !important; }
 
 .three-shade-col [class^="col-"]:nth-child(2) {
-  background: #11241C !important; }
+  background: #515C46 !important; }
 
 .three-shade-col [class^="col-"]:nth-child(3) {
-  background: #9C907A !important; }
+  background: #7B8C6D !important; }
 
 .three-shade-col [class^="col-"]:nth-child(4) {
   background: #1A2026 !important; }
@@ -73,17 +73,17 @@
 .btn-success {
   color: #fff;
   background-color: #1A2026;
-  border-color: #11241C; }
+  border-color: #515C46; }
 
 .btn-success:focus,
 .btn-success.focus {
   color: #fff;
   background-color: #1A2026;
-  border-color: #11241C; }
+  border-color: #515C46; }
 
 .btn-success:hover {
   color: #fff;
-  background-color: #11241C;
+  background-color: #515C46;
   border-color: #1A2026; }
 
 .main .icon {
@@ -93,5 +93,5 @@
 
 .userEL427543 hr {
   border: 0;
-  border-top: 15px solid #1A2026;
+  border-top: 10px solid #1A2026;
   height: 1px; }
